@@ -24,9 +24,20 @@ extern "C" {
     #include <stdio.h>
 #endif
 
+enum COLOR {
+    BLACK,
+    RED,
+    YELLOW,
+    GREEN,
+    BLUE,
+    WHITE
+};
+
 char xplt_getch();
 void xplt_clrscr();
 void xplt_gotoligcol(int lig, int col);
+void xplt_set_font_color(int color);
+
 
 #ifdef __cplusplus
 }
