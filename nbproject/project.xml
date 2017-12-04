@@ -27,6 +27,10 @@
                     <name>mac-cross-mingw64</name>
                     <type>2</type>
                 </confElem>
+                <confElem>
+                    <name>windows-mingw64</name>
+                    <type>2</type>
+                </confElem>
             </confList>
             <formatting>
                 <project-formatting-style>false</project-formatting-style>

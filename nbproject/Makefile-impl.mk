@@ -24,14 +24,14 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=XPlatform
+PROJECTNAME=xplatform
 
 # Active Configuration
 DEFAULTCONF=Debug
 CONF=${DEFAULTCONF}
 
 # All Configurations
-ALLCONFS=Debug Release mac-release mac-cross-mingw64 
+ALLCONFS=Debug Release mac-release mac-cross-mingw64 windows-mingw64 
 
 
 # build
