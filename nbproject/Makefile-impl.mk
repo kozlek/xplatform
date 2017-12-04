@@ -31,7 +31,7 @@ DEFAULTCONF=Debug
 CONF=${DEFAULTCONF}
 
 # All Configurations
-ALLCONFS=Debug Release mac-release 
+ALLCONFS=Debug Release mac-release mac-cross-mingw64 
 
 
 # build

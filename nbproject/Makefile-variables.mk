@@ -30,6 +30,14 @@ CND_ARTIFACT_PATH_mac-release=dist/mac-release/HB-GCC-MacOSX/libXPlatform.dylib
 CND_PACKAGE_DIR_mac-release=dist/mac-release/HB-GCC-MacOSX/package
 CND_PACKAGE_NAME_mac-release=libXPlatform.dylib.tar
 CND_PACKAGE_PATH_mac-release=dist/mac-release/HB-GCC-MacOSX/package/libXPlatform.dylib.tar
+# mac-cross-mingw64 configuration
+CND_PLATFORM_mac-cross-mingw64=mingw-w64-MacOSX
+CND_ARTIFACT_DIR_mac-cross-mingw64=dist/mac-cross-mingw64/mingw-w64-MacOSX
+CND_ARTIFACT_NAME_mac-cross-mingw64=libXPlatform.dylib
+CND_ARTIFACT_PATH_mac-cross-mingw64=dist/mac-cross-mingw64/mingw-w64-MacOSX/libXPlatform.dylib
+CND_PACKAGE_DIR_mac-cross-mingw64=dist/mac-cross-mingw64/mingw-w64-MacOSX/package
+CND_PACKAGE_NAME_mac-cross-mingw64=libXPlatform.dylib.tar
+CND_PACKAGE_PATH_mac-cross-mingw64=dist/mac-cross-mingw64/mingw-w64-MacOSX/package/libXPlatform.dylib.tar
 #
 # include compiler specific variables
 #
