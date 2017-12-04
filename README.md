@@ -8,3 +8,6 @@ Clear screen. That's all.
 
 ## xplt_gotoligcol
 Move cursor to lig and col.
+
+## xplt_set_color
+Change prompt colors (text & foreground)
